@@ -24,6 +24,9 @@ An AI-powered stock alert system that sends real-time alerts based on RSI and pr
 ## 📸 Demo / Screenshots
 
 <img width="1469" height="661" alt="image" src="https://github.com/user-attachments/assets/8eebb31f-95ed-4551-b01e-f7fe410c0dda" />
+output:
+<img width="559" height="847" alt="image" src="https://github.com/user-attachments/assets/575b1afc-7427-424e-81e2-4247b30ed4ba" />
+
 
 *Top news from google news
 <img width="1483" height="563" alt="image" src="https://github.com/user-attachments/assets/0294d826-d154-4b29-a216-ceb0f4aba9be" />
@@ -41,7 +44,7 @@ output:
 <img width="1451" height="498" alt="image" src="https://github.com/user-attachments/assets/79295563-9b4b-4351-ba5f-dfbd6c3253e7" />
 output: 
 <img width="918" height="851" alt="image" src="https://github.com/user-attachments/assets/b391ea88-3f00-4fc6-a014-8d7409ef5e4d" />
-    <img width="629" height="807" alt="image" src="https://github.com/user-attachments/assets/1375eb8b-85c7-4a67-af14-ed2d8731a8ca" />
+<img width="629" height="807" alt="image" src="https://github.com/user-attachments/assets/1375eb8b-85c7-4a67-af14-ed2d8731a8ca" />
 
 *weeding invitation pro
 <img width="1429" height="448" alt="image" src="https://github.com/user-attachments/assets/9dc67deb-36f1-4614-9284-8a31818a9492" />
